@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "C:\\Users\\phong\\Desktop\\FinalTermProject",
+      "inlcudePath": [
+        "./CMSIS/include",
+        "./STM32F4xx_StdPeriph_Driver/include",
+        "./User/include"
+      ]
+    }
+  ],
+  "settings": {
+    "includePath": [
+      "./CMSIS/include",
+      "./STM32F4xx_StdPeriph_Driver/include",
+      "./User/include"
+    ]
+  }
+}
